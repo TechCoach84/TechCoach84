@@ -11,7 +11,7 @@
 <p align="center">
 </p>
 
-### :woman_technologist: &nbsp;Tech Coach. Obsessed with Web development  :
+### :woman_technologist: &nbsp;Tech Coach. Obsessed with Web development  💖
 
 Product BUIDLER well-versed in JavaScript/Typescript (React.js, Next.js, Vue.js, Node.js, Express.js Web3.js, Ethers.js, AWS), Blockchain & AI technology.
 
