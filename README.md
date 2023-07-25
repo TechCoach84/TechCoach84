@@ -15,7 +15,7 @@
 
 Sr Frontend developer well-versed in JavaScript/Typescript (React.js, Next.js, Vue.js, Node.js, Express.js Web3.js, Ethers.js, AWS), Blockchain & AI technology.
 
-I'm very passionate about building Webapp and DApps using new ideas + AI technologies in web and crypto industry.
+I'm very passionate about building Webapp and DApps using new ideas + AI technologies.
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="256" />
 
