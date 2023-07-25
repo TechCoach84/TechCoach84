@@ -5,7 +5,7 @@
   <br/>
 </div>
 
-<h2 align="center"> 👋✨ Hi, everyone✨👋<p>
+<h2 align="center"> 👋✨ Sr Frontend developer ✨👋<p>
 
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
@@ -13,9 +13,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-Sr Frontend developer well-versed in JavaScript/Typescript (React.js, Next.js, Vue.js, Node.js, Express.js Web3.js, Ethers.js, AWS), Blockchain & AI technology.
-
-I'm very passionate about building Webapp and DApps using new ideas + AI technologies.
+Product BUIDLER well-versed in JavaScript/Typescript (React.js, Next.js, Vue.js, Node.js, Express.js Web3.js, Ethers.js, AWS), Blockchain & AI technology.
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="256" />
 
